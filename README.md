@@ -1,3 +1,5 @@
+ A simple shopping cart with React components
+
 ## Install
 ```
 $ clone https://github.com/Sayem995/ecommerce-shopping-cart.git
